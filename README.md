@@ -4,17 +4,22 @@ An end-to-end e-commerce web application that enables users to browse, search, a
 
 ## 🚀 Features
 
-- 🔎 Product search and category filtering
-- 🛒 Shopping cart and checkout functionality
-- 🔐 User authentication and authorization
-- 🧾 Order tracking and order history
-- ⚙️ Admin dashboard (Add, edit, delete products)
-- 📦 Real-time inventory updates
-- 📬 Wishlist and restock alert support (optional)
-- 📱 Fully responsive design for mobile and desktop
-- 🔐 Secure password handling and JWT-based auth
+1. 🔎 **Advanced Product Search & Filters** – Find products easily using category, price, and keyword.
+2. 🛒 **Shopping Cart & Checkout** – Add/remove items, adjust quantity, and simulate payment.
+3. 🔐 **JWT-Based Authentication** – Secure login/registration for users and admins.
+4. 🗂 **Admin Dashboard** – Admins can add, edit, and delete products, update stock, and view inventory.
+5. 📦 **Real-Time Inventory Management** – Stock levels update instantly after orders or admin actions.
+6. 💝 **Wishlist Functionality** – Save favorite products for future purchase (optional).
+7. 📬 **Restock Alerts** – Get notified when out-of-stock items are replenished (simulated).
+8. ⭐ **Product Ratings & Reviews** – Customers can leave feedback (static in this version).
+9. 📱 **Responsive Design** – Fully mobile-friendly layout using Tailwind or Bootstrap.
+10. 🔐 **Security Best Practices** – Password hashing, token auth, CORS, Helmet, and input validation.
 
 ---
+
+
+## 🗂️ Folder Structure
+
 
 ## 🧑‍💻 Tech Stack
 
